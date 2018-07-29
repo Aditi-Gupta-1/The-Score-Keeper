@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	margin: auto;
+}
+h1{
+	font-size: 100px;
+}
+p{
+	font-size: 50px;
+}
+.winner{
+	color: red;
+}
